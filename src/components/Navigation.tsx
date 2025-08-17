@@ -55,7 +55,7 @@ const Navigation = () => {
           <div className="flex items-center justify-between">
             {/* Logo */}
             <div className="text-2xl font-bold gradient-text">
-              Bikram
+              Bikram Dutta
             </div>
 
             {/* Desktop Navigation */}
