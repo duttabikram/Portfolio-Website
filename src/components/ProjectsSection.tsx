@@ -91,15 +91,15 @@ const ProjectsSection = () => {
       title: "Blog Application",
       description: "Developed a dynamic blog platform that allows users to create, read, update, and delete blog posts.",
       tech: ["HTML", "CSS", "JavaScript", "EJS", "Node.js", "Express.js", "MongoDB"],
-      demoUrl: "#",
-      codeUrl: "#"
+      demoUrl: "https://blog-website-with-db-8k30.onrender.com/",
+      codeUrl: "https://github.com/duttabikram/Blog-Website-With-DB"
     },
     {
       title: "Daily Note-taking Web App",
       description: "A simple and intuitive note-taking web application designed to manage daily tasks and thoughts.",
-      tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Material-UI", "CSS"],
-      demoUrl: "#",
-      codeUrl: "#"
+      tech: ["React.js", "Material-UI", "CSS"],
+      demoUrl: "https://notemakingg.netlify.app/",
+      codeUrl: "https://github.com/duttabikram/Note-Making-Website"
     }
   ];
 

@@ -205,7 +205,10 @@ const AboutSection = () => {
                 <h4 className="font-semibold text-secondary">Containerization</h4>
                 <p className="text-sm text-muted-foreground">Docker</p>
               </div>
-      
+              <div className="glass-card p-4 rounded-xl space-y-3">
+                <h4 className="font-semibold text-secondary">Machine Learning</h4>
+                <p className="text-sm text-muted-foreground">Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn</p>
+              </div>
             </div>
           </div>
 
@@ -243,6 +246,10 @@ const AboutSection = () => {
               <div className="glass-card p-4 rounded-xl">
                 <h4 className="font-semibold text-accent">The Complete 2024 Web Development Bootcamp</h4>
                 <p className="text-sm text-muted-foreground">Udemy</p>
+              </div>
+              <div className="glass-card p-4 rounded-xl">
+                <h4 className="font-semibold text-accent"> Introduction to Generative AI</h4>
+                <p className="text-sm text-muted-foreground">Intel</p>
               </div>
             </div>
           </div>
