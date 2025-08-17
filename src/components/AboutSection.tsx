@@ -142,7 +142,7 @@ const AboutSection = () => {
               <div className="relative glass-card p-1.5 rounded-full glow-hover">
                 <div className="aspect-square rounded-full overflow-hidden bg-gradient-to-br from-muted/20 to-muted/40">
                   <img 
-                    src="/lovable-uploads/xxx.jpg"
+                    src="/lovable-uploads/xxxx.jpg"
                     alt="Bikram - Web & ML Developer"
                     className="w-full h-full object-cover transition-transform duration-700 hover:scale-105"
                   />
