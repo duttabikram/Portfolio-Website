@@ -79,7 +79,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="space-y-6">
             <div className="space-y-4">
-              <h3 className="text-3xl font-bold gradient-text">Bikram</h3>
+              <h3 className="text-3xl font-bold gradient-text">Bikram Dutta</h3>
               <p className="text-muted-foreground leading-relaxed">
                 Crafting the future of web development with innovative solutions 
                 and cutting-edge technology.
@@ -115,20 +115,17 @@ const Footer = () => {
             <h4 className="text-xl font-semibold text-foreground">Let's Connect</h4>
             <div className="space-y-3">
               <a 
-                href="mailto:bikram@example.com" 
+                href="mailto:duttabikram53@gmail.com" 
                 className="block text-muted-foreground hover:text-primary transition-colors duration-300"
               >
-                bikram@example.com
+                duttabikram53@gmail.com
               </a>
               <a 
-                href="tel:+15551234567" 
+                href="tel:+918945888330" 
                 className="block text-muted-foreground hover:text-primary transition-colors duration-300"
               >
-                +1 (555) 123-4567
+                +91 8945888330
               </a>
-              <div className="text-muted-foreground">
-                San Francisco, CA
-              </div>
             </div>
           </div>
         </div>

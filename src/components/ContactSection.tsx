@@ -130,7 +130,7 @@ const ContactSection = () => {
       icon: Phone,
       label: 'Phone',
       value: '+91 8945888330',
-      href: 'phone:+918945888330'
+      href: 'tel:+918945888330'
     }
   ];
 
