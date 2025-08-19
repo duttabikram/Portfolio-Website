@@ -206,7 +206,7 @@ const AboutSection = () => {
                 <p className="text-sm text-muted-foreground">Docker</p>
               </div>
               <div className="glass-card p-4 rounded-xl space-y-3">
-                <h4 className="font-semibold text-secondary">Machine Learning</h4>
+                <h4 className="font-semibold text-accent">Machine Learning</h4>
                 <p className="text-sm text-muted-foreground">Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn</p>
               </div>
             </div>
@@ -248,7 +248,7 @@ const AboutSection = () => {
                 <p className="text-sm text-muted-foreground">Udemy</p>
               </div>
               <div className="glass-card p-4 rounded-xl">
-                <h4 className="font-semibold text-accent"> Introduction to Generative AI</h4>
+                <h4 className="font-semibold text-secondary"> Introduction to Generative AI</h4>
                 <p className="text-sm text-muted-foreground">Intel</p>
               </div>
             </div>
