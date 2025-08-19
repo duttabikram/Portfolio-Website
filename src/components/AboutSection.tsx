@@ -202,7 +202,7 @@ const AboutSection = () => {
                 <p className="text-sm text-muted-foreground">MongoDB, PostgreSQL, ORM-Prisma</p>
               </div>
               <div className="glass-card p-4 rounded-xl space-y-3">
-                <h4 className="font-semibold text-accent">Machine Learning</h4>
+                <h4 className="font-semibold text-secondary">Machine Learning</h4>
                 <p className="text-sm text-muted-foreground">Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn</p>
               </div>
               <div className="glass-card p-4 rounded-xl space-y-3">
