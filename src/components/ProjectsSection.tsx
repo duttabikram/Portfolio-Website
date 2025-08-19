@@ -100,7 +100,36 @@ const ProjectsSection = () => {
       tech: ["React.js", "Material-UI", "CSS"],
       demoUrl: "https://notemakingg.netlify.app/",
       codeUrl: "https://github.com/duttabikram/Note-Making-Website"
-    }
+    },
+    {
+  "title": "Chat with SQL Database Web App",
+  "description": "A Streamlit web application that allows users to interact with SQL databases (SQLite or MySQL) using natural language queries powered by Groq LLM.",
+  "tech": ["Python", "Streamlit", "LangChain", "LangChain-Groq", "SQLAlchemy", "SQLite", "MySQL"],
+  "demoUrl": "https://chat-mysqldb-f2bayvzy5ttwajhbadogs8.streamlit.app/",
+  "codeUrl": "https://github.com/duttabikram/Chat-MYSQLDB"
+},
+    {
+  "title": "Text Summarization Web App",
+  "description": "A Streamlit web application that summarizes content from YouTube videos or websites using Groq LLM, handling both standard and JavaScript-heavy pages.",
+  "tech": ["Python", "Streamlit", "LangChain", "LangChain-Groq", "youtube-transcript-api", "Selenium (optional)"],
+  "demoUrl": "https://text-summarization-g9sbjjlzftqoywfxp6igec.streamlit.app/",
+  "codeUrl": "https://github.com/duttabikram/Text-Summarization"
+   },
+   {
+  "title": "Text-to-Math Problem Solver Web App",
+  "description": "A Streamlit web application that converts text-based math problems into step-by-step solutions and can also search for information online using Wikipedia. Powered by Groq LLM and LangChain tools.",
+  "tech": ["Python", "Streamlit", "LangChain", "LangChain-Groq", "WikipediaAPIWrapper", "LLMMathChain"],
+  "demoUrl": "https://maths-gpt-x63brngoae4j7dzcatnty8.streamlit.app/",
+  "codeUrl": "https://github.com/duttabikram/Maths-GPT"
+}
+,
+  {
+  "title": "RAG Q&A PDF Chat Web App",
+  "description": "A Streamlit web application that allows users to upload PDFs and interact with their content via a conversational RAG system, maintaining chat history across sessions. Uses Groq LLM for question-answering and HuggingFace embeddings for vectorization.",
+  "tech": ["Python", "Streamlit", "LangChain", "LangChain-Groq", "HuggingFace Embeddings", "Chroma", "PyPDFLoader"],
+  "demoUrl": "https://onp4bezyqeuaciusietxm8.streamlit.app/",
+  "codeUrl": "https://github.com/duttabikram/-RAG-Q-A-Conversation-With-PDF"
+}
   ];
 
   return (
