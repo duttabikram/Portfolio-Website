@@ -194,21 +194,22 @@ const AboutSection = () => {
                 <p className="text-sm text-muted-foreground">React.js, EJS, JavaScript, HTML, CSS</p>
               </div>
               <div className="glass-card p-4 rounded-xl space-y-3">
-                <h4 className="font-semibold text-accent">Backend</h4>
-                <p className="text-sm text-muted-foreground">Node.js, Express.js, JWT Token </p>
+                <h4 className="font-semibold text-accent">Back-end tools</h4>
+                <p className="text-sm text-muted-foreground">Node.js, Express.js, JWT Token, Docker </p>
               </div>
               <div className="glass-card p-4 rounded-xl space-y-3">
                 <h4 className="font-semibold text-primary">Database</h4>
                 <p className="text-sm text-muted-foreground">MongoDB, PostgreSQL, ORM-Prisma</p>
               </div>
               <div className="glass-card p-4 rounded-xl space-y-3">
-                <h4 className="font-semibold text-secondary">Containerization</h4>
-                <p className="text-sm text-muted-foreground">Docker</p>
-              </div>
-              <div className="glass-card p-4 rounded-xl space-y-3">
                 <h4 className="font-semibold text-accent">Machine Learning</h4>
                 <p className="text-sm text-muted-foreground">Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn</p>
               </div>
+              <div className="glass-card p-4 rounded-xl space-y-3">
+              <h4 className="font-semibold text-primary">Generative AI & LLMs</h4>
+              <p className="text-sm text-muted-foreground">
+               LangChain, LLM, HuggingFace , VectorDB, RAG, AI Agents & Tools</p>
+             </div>
             </div>
           </div>
 
