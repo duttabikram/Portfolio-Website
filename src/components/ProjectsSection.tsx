@@ -125,7 +125,7 @@ const ProjectsSection = () => {
 ,
   {
   "title": "RAG Q&A PDF Chat Web App",
-  "description": "A Streamlit web application that allows users to upload PDFs and interact with their content via a conversational RAG system, maintaining chat history across sessions. Uses Groq LLM for question-answering and HuggingFace embeddings for vectorization.",
+  "description": "A Streamlit web application that allows users to upload PDFs and interact with their content via a conversational RAG system, maintaining chat history across sessions.",
   "tech": ["Python", "Streamlit", "LangChain", "LangChain-Groq", "HuggingFace Embeddings", "Chroma", "PyPDFLoader"],
   "demoUrl": "https://onp4bezyqeuaciusietxm8.streamlit.app/",
   "codeUrl": "https://github.com/duttabikram/-RAG-Q-A-Conversation-With-PDF"
