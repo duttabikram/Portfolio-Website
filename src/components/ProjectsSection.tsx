@@ -89,7 +89,7 @@ const ProjectsSection = () => {
     },
     {
   title: "Blog Application",
-  description: "Built a full-stack blog platform with secure user authentication, enabling users to create, view, edit, and delete their own posts. Implemented JWT-based authentication using HTTP-only cookies and deployed the application on Render.",
+  description: "Built a full-stack blog platform with secure user authentication, enabling users to create, view, edit, and delete their own posts. Implemented JWT-based authentication using HTTP-only cookies.",
   tech: [
     "HTML",
     "CSS",
@@ -143,7 +143,7 @@ const ProjectsSection = () => {
 }, 
   {
   "title": "Google Meet Clone – Real-Time Video Calling Web App",
-  "description": "A real-time video calling web application built using WebRTC and Socket.io that enables 1-to-1 video conferencing with live audio/video streaming, in-call chat, mute/camera controls, and responsive layout across mobile and desktop devices. The app uses a signaling server for peer connection setup and supports deployment on cloud platforms like Render.",
+  "description": "A real-time video calling web application built using WebRTC and Socket.io that enables 1-to-1 video conferencing with live audio/video streaming, in-call chat, mute/camera controls, and responsive layout across mobile and desktop devices.",
   "tech": [
     "React",
     "Vite",
