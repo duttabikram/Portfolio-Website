@@ -88,12 +88,23 @@ const ProjectsSection = () => {
       codeUrl: "https://github.com/duttabikram/Resturant-Bill-Prediction"
     },
     {
-      title: "Blog Application",
-      description: "Developed a dynamic blog platform that allows users to create, read, update, and delete blog posts.",
-      tech: ["HTML", "CSS", "JavaScript", "EJS", "Node.js", "Express.js", "MongoDB"],
-      demoUrl: "https://blog-website-with-db-8k30.onrender.com/",
-      codeUrl: "https://github.com/duttabikram/Blog-Website-With-DB"
-    },
+  title: "Blog Application",
+  description: "Built a full-stack blog platform with secure user authentication, enabling users to create, view, edit, and delete their own posts. Implemented JWT-based authentication using HTTP-only cookies and deployed the application on Render.",
+  tech: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "EJS",
+    "Node.js",
+    "Express.js",
+    "MongoDB Atlas",
+    "JWT",
+    "Render"
+  ],
+  demoUrl: "https://blog-website-with-db-8k30.onrender.com/",
+  codeUrl: "https://github.com/duttabikram/Blog-Website-With-DB"
+}
+,
     {
       title: "Daily Note-taking Web App",
       description: "A simple and intuitive note-taking web application designed to manage daily tasks and thoughts.",
@@ -129,7 +140,26 @@ const ProjectsSection = () => {
   "tech": ["Python", "Streamlit", "LangChain", "LangChain-Groq", "HuggingFace Embeddings", "Chroma", "PyPDFLoader"],
   "demoUrl": "https://onp4bezyqeuaciusietxm8.streamlit.app/",
   "codeUrl": "https://github.com/duttabikram/-RAG-Q-A-Conversation-With-PDF"
+}, 
+  {
+  "title": "Google Meet Clone – Real-Time Video Calling Web App",
+  "description": "A real-time video calling web application built using WebRTC and Socket.io that enables 1-to-1 video conferencing with live audio/video streaming, in-call chat, mute/camera controls, and responsive layout across mobile and desktop devices. The app uses a signaling server for peer connection setup and supports deployment on cloud platforms like Render.",
+  "tech": [
+    "React",
+    "Vite",
+    "WebRTC",
+    "Socket.io",
+    "Node.js",
+    "Express",
+    "STUN Server",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "demoUrl": "https://videofrontend-xcq4.onrender.com/",
+  "codeUrl": "https://github.com/duttabikram/videobackend"
 }
+
   ];
 
   return (
